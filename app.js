@@ -42,6 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         text: "Không Tìm Thấy Người Dùng ?",
                         icon: "question"
                     });
+                    return;
                 }
                 const data = await respone.json();
                 renderProfile(data);
