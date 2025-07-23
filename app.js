@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function () {
            <div class="d-flex pt-1">
               <a href="${data.html_url}" type="button" data-mdb-button-init
                  data-mdb-ripple-init
-                 class="btn btn-primary flex-grow-1">Chi Tiết</a>
+                 class="btn btn-primary flex-grow-1">Xem Chi Tiết</a>
            </div>
         </div>
      </div>

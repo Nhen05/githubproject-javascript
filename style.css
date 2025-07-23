@@ -5,7 +5,8 @@
   border-style: dashed solid  solid dotted;
   border-color: #FF3D00 #FF3D00 transparent #FF3D00;
   border-radius: 50%;
-  display: none;
+  display: none
+  ;
   position: relative;
   box-sizing: border-box;
   animation: rotation 1s linear infinite;
